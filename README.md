@@ -1,5 +1,6 @@
 # Tarefa---IMC
 print('LISTA DE PACIENTES:')
+
 Nomes = ['Caroline Colluci', 'Vinícius Valle','Marina Bieber', 'Sabrina Gilmar']
 Altura = [1.54, 1.75, 1.46, 1.64]
 Massa = [65, 70, 80, 95]
